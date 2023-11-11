@@ -1,6 +1,6 @@
 # TOWERS OF HANOI React 1.0.0 
 
-![image](https://github.com/NeuralCortex/Towers_Of_Hanoi/blob/main/images/towers.png)
+![image](https://github.com/NeuralCortex/Towers_Of_Hanoi_React/blob/main/app.png)
 
 ## How the program works
 
